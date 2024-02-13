@@ -4,7 +4,7 @@ Hey, This is Vaibhav Kulshrestha, a passionate front-end developer and a freelan
  I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="[https://github.com/Vaibhavkulshrestha12/Vaibhavkulshrestha12/blob/228043e5e7dd004a1757716c19f17799fe7d6961/dfaf87i-35558ca0-8455-494a-8976-8476a6db2fd4.gif]?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Vaibhavkulshrestha12/Vaibhavkulshrestha12/blob/228043e5e7dd004a1757716c19f17799fe7d6961/dfaf87i-35558ca0-8455-494a-8976-8476a6db2fd4.gif?raw=true" width="500" height="320" />
   
 -for freelance work do reach me,[email](mailto:vaibhavkuslrestha55@gmail.com) ;)
 
