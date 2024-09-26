@@ -26,4 +26,4 @@ Hey, This is Vaibhav Kulshrestha, a passionate front-end developer. I have exper
 
 📈 My GitHub stats📈
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavkulshrestha12&show_icons=true&theme=gotham" alt="Vaibhav Kulshrestha" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavkulshrestha12&show_icons=true&theme=gotham" alt="Vaibhav Kulshrestha" />
