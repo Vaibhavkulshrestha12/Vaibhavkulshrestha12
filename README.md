@@ -1,4 +1,4 @@
-Hey, This is Vaibhav Kulshrestha, a passionate front-end developer. I have experience in both web dev and Python programming, as a hobby I worked on various pygame projects too.
+Hey, This is Vaibhav Kulshrestha, a full-stack developer. I have experience in both web dev and Python programming, as a hobby I worked on various pygame projects too.
 
 
  I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
