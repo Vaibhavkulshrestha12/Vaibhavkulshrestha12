@@ -1,30 +1,47 @@
-Hey, This is Vaibhav Kulshrestha, a full-stack developer. I have experience in both web dev and Python programming, as a hobby I worked on various pygame projects too.
+<div align="center">
+
+# Hola Amigo!
+
+Hey, I'm <strong>Vaibhav Kulshrestha!</strong>
+<br><br>
+A <strong>Full-Stack Developer</strong> with expertise in building dynamic, user-friendly applications. I specialize in both frontend and backend development, proficient in technologies like React, Node.js, Next.js, and TypeScript. In my free time, In my free time I flirt with Python programming and Pygame. Currently tinkering with <Strong>Golang and linux</strong>.
+
+  ## 🌐 Socials:
+
+<p align="center">
+  <a href="https://linkedin.com/in/vaibhav-kulshrestha-053924283">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/Potato_o_0">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://discord.com/users/ÂLphA">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://twitter.com/Vaibhav_1208">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="mailto:vaibhavkulshrestha55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+
+<h3 align="center">Languages & Tools</h3>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,js,css,bootstrap,sass,tailwind,firebase,threejs,ts,vite,mongodb,wordpress,python,c,cpp,babel,figma,bash,vscode,jenkins,express,git,nextjs,vue,npm,postgres,postman,redis,mysql,vercel&perline=8&theme=dark" />
+</p>
 
 
- I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/Vaibhavkulshrestha12/Vaibhavkulshrestha12/blob/228043e5e7dd004a1757716c19f17799fe7d6961/dfaf87i-35558ca0-8455-494a-8976-8476a6db2fd4.gif?raw=true" width="400" height="300" />
+
+# 📈 My GitHub stats📈
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
   
--for freelance work do reach me,[email](mailto:vaibhavkuslrestha55@gmail.com) ;)
+
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavkulshrestha12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavkulshrestha12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 
-
-**Languages and tools that I know:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://github.com/Vaibhavkulshrestha12/Vaibhavkulshrestha12/blob/99f7298788bddf5980331d1410ea352eb15509f5/pygame_lofi.png"></code>
-
-
-
-
-📈 My GitHub stats📈
-
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavkulshrestha12&show_icons=true&theme=gotham" alt="Vaibhav Kulshrestha" />
