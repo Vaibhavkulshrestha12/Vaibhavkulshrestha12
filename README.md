@@ -40,8 +40,10 @@ A <strong>Full-Stack Developer</strong> with expertise in building dynamic, user
   
 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavkulshrestha12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhavkulshrestha12&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavkulshrestha12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
+
 
 
