@@ -4,7 +4,7 @@
 
 Hey, I'm <strong>Vaibhav Kulshrestha!</strong>
 <br><br>
-A <strong>Full-Stack Developer</strong> with expertise in building dynamic, user-friendly applications. I specialize in both frontend and backend development, proficient in technologies like React, Node.js, Next.js, and TypeScript. In my free time, In my free time I flirt with Python programming and Pygame. Currently tinkering with <Strong>Golang and linux</strong>.
+A <strong>Full-Stack Developer</strong> with expertise in building dynamic, user-friendly applications. I specialize in both frontend and backend development, proficient in technologies like React, Node.js, Next.js, and TypeScript. In my free time, In my free time I flirt with Python programming and java. Currently tinkering with <Strong>Golang and linux</strong>.
 
   ## 🌐 Socials:
 
