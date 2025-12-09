@@ -31,18 +31,19 @@ A <strong>Full-Stack Developer</strong> with expertise in building dynamic, user
 <img src="https://skillicons.dev/icons?i=react,nodejs,html,js,css,bootstrap,sass,tailwind,firebase,threejs,ts,vite,mongodb,wordpress,python,c,cpp,babel,figma,bash,vscode,jenkins,express,git,nextjs,vue,npm,postgres,postman,redis,mysql,vercel&perline=8&theme=dark" />
 </p>
 
+# 📈 My GitHub Stats📈
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavkulshrestha12&theme=github_dark" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhavkulshrestha12&theme=github_dark" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhavkulshrestha12&theme=github_dark" />
 
-# 📈 My GitHub stats📈
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
-  
-
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhavkulshrestha12&show_icons=true&theme=radical)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavkulshrestha12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
+
+
 
 
 
