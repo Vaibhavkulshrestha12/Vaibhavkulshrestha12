@@ -28,7 +28,7 @@ A <strong>Full-Stack Developer</strong> with expertise in building dynamic, user
 
 <h3 align="center">Languages & Tools</h3>
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,js,css,bootstrap,sass,tailwind,firebase,threejs,ts,vite,mongodb,wordpress,python,c,cpp,babel,figma,bash,vscode,jenkins,express,git,nextjs,vue,npm,postgres,postman,redis,mysql,vercel&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,js,css,docker,aws,tailwind,firebase,nestjs,ts,vite,mongodb,wordpress,python,c,cpp,java,figma,bash,vscode,jenkins,express,git,nextjs,vue,npm,postgres,postman,redis,mysql,vercel&perline=8&theme=dark" />
 </p>
 
 # 📈 My GitHub Stats📈
