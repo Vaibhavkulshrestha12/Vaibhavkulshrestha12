@@ -1,0 +1,59 @@
+name: Metrics
+on:
+  schedule:
+    - cron: '0 0/3 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Metrics 1
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          filename: metrics1.svg
+          user: Vaibhavkulshrestha12
+          base: header, activity, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_twemoji: yes
+          use_prebuilt_image: yes
+
+          plugin_languages: yes
+          plugin_languages_indepth: no
+          plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout: 300
+          plugin_languages_limit: 12
+          plugin_languages_threshold: 0.5%
+
+          plugin_lines: yes
+
+          plugin_notable: yes
+          plugin_notable_filter: stars:>30
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_self: yes
+
+      - name: Metrics 2
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          filename: metrics2.svg
+          user: Vaibhavkulshrestha12
+          base: ""
+          config_timezone: Asia/Kolkata
+          config_twemoji: yes
+          use_prebuilt_image: yes
+
+          plugin_topics: yes
+          plugin_topics_sort: starred
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year

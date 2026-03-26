@@ -34,11 +34,9 @@ A <strong>Full-Stack Developer</strong> with expertise in building dynamic, user
 # 📈 My GitHub Stats📈
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavkulshrestha12&theme=github_dark" />
+<img src="metrics1.svg" alt="GitHub Metrics" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhavkulshrestha12&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhavkulshrestha12&theme=github_dark" />
+<img src="metrics2.svg" alt="GitHub Topics & Calendar" />
 
 </div>
 
